@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kickoff-designer
 - 👀 I’m interested in write code in nested structure and fond of SCSS
 - 🌱 I’m currently learning UX, React, Angular
-- 💞️ I’m looking to collaborate on Amplify  based
-- 📫 Ping me here with on git push
+- 💞️ I’m looking to collaborate on Complex Design
+ 📫 Ping me here with on git push
 - 😄 Pronouns: NA
 - ⚡ Fun fact: 
 
