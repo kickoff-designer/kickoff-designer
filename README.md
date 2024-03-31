@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @kickoff-designer
+- 👀 I’m interested in write code in nested structure and fond of SCSS
+- 🌱 I’m currently learning UX, React, Angular
+- 💞️ I’m looking to collaborate on Amplify  based
+- 📫 Ping me here with on git push
+- 😄 Pronouns: NA
+- ⚡ Fun fact: 
+
+<!---
+kickoff-designer/kickoff-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
