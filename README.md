@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning UX, React, Angular
 - 💞️ I’m looking to collaborate on Complex Design
  📫 Ping me here with on git push
-- 😄 Pronouns: NA
-- ⚡ Fun fact: 
+- 😄 Pronouns: His/Him
+- ⚡ Fun fact: I'm UX designer and learning NextJS & ReactJS
 
 <!---
 kickoff-designer/kickoff-designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
