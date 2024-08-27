@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kickoff-designer
+- 👋 Hi, I’m Anurag Srivastava
 - 👀 I’m interested in write code in nested structure and fond of SCSS
 - 🌱 I’m currently learning UX, React, Angular
 - 💞️ I’m looking to collaborate on Complex Design
